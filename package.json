@@ -1,0 +1,15 @@
+{
+	"name": "minimalERC721",
+	"description": "An ERC721 contract to minimize gas costs when creating NFTs for information tracking.",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "TruthArchive.AI <support@trutharchive.ai>",
+	"keywords": ["ERC721", "gas", "solidity", "ethereum", "nft", "information", "tracking"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KDPInnovations/minimalERC721"
+	},
+	"dependencies": {
+		"@openzeppelin/contracts": "5.4.0"
+	}
+}
